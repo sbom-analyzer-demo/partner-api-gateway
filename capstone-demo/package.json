@@ -1,0 +1,9 @@
+{
+  "name": "partner-api-gateway",
+  "version": "1.0.0",
+  "description": "Outbound integrations with partner systems",
+  "private": true,
+  "dependencies": {
+    "follow-redirects": "1.15.0"
+  }
+}
